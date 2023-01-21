@@ -40,6 +40,21 @@ def select_records(cnxn, query):
         cursor.close()
         cnxn.close()
 
+def update_records(cnxn, query):
+    """
+    Create cursor connection, execute sql update query
+    """
+    try:
+        cursor = cnxn.cursor()
+        cursor.execute(query)
+        cursor.commit()
+    except Exception as e:
+        cursor.rollback()
+        print(e.args[1])
+    finally:
+        cursor.close()
+        cnxn.close()
+
 # execute sql insert statement
 def insert_records(cnxn, query, params):
     """
@@ -66,4 +81,3 @@ def read_contents(path):
     with open(path, "r") as file:
         contents = file.read()
     return contents
-
