@@ -1,0 +1,96 @@
+Student ID,Undergrad Degree,Undergrad Grade,MBA Grade,Work Experience,Employability (Before),Employability (After),Status,Annual Salary
+1,Business,68.4,90.2,No,252,276,Placed,111000.0
+2,Business,62.1,92.8,No,423,410,Not Placed,
+3,Computer Science,70.2,68.7,Yes,101,119,Placed,107000.0
+4,Engineering,75.1,80.7,No,288,334,Not Placed,
+5,Finance,60.9,74.9,No,248,252,Not Placed,
+6,Computer Science,74.5,80.7,No,145,209,Not Placed,
+7,Finance,76.4,83.3,No,401,462,Placed,109000.0
+8,Business,82.6,88.7,No,287,342,Placed,148000.0
+9,Finance,76.9,75.4,No,275,347,Placed,255500.0
+10,Computer Science,83.3,82.1,No,254,313,Placed,103500.0
+11,Business,75.8,87.5,No,182,232,Not Placed,
+12,Engineering,76.0,66.9,No,117,163,Placed,114500.0
+13,Business,62.8,71.3,No,130,119,Not Placed,
+14,Engineering,82.8,76.8,No,219,304,Placed,124000.0
+15,Business,76.0,72.3,No,152,211,Placed,132500.0
+16,Finance,76.9,72.4,No,228,286,Placed,99000.0
+17,Computer Science,75.8,72.0,Yes,62,122,Not Placed,
+18,Art,78.0,81.0,No,393,443,Placed,124000.0
+19,Business,82.4,96.1,No,277,366,Not Placed,
+20,Computer Science,76.2,76.7,No,206,244,Not Placed,
+21,Business,62.5,80.3,No,229,241,Not Placed,
+22,Art,78.0,77.8,No,182,237,Placed,82000.0
+23,Engineering,66.5,62.6,No,98,122,Not Placed,
+24,Computer Science,63.5,80.2,No,125,129,Not Placed,
+25,Business,82.6,79.1,No,164,236,Placed,185000.0
+26,Computer Science,79.2,77.8,No,186,251,Placed,89500.0
+27,Computer Science,75.0,75.1,No,235,283,Placed,91500.0
+28,Art,74.4,82.2,No,184,225,Not Placed,
+29,Finance,67.9,70.5,No,76,102,Not Placed,
+30,Art,76.8,70.8,No,126,180,Placed,113500.0
+31,Business,83.0,87.5,No,183,247,Not Placed,
+32,Computer Science,88.9,79.5,No,242,343,Not Placed,
+33,Business,76.5,80.8,No,207,283,Not Placed,
+34,Finance,79.9,79.6,Yes,181,253,Placed,99000.0
+35,Business,70.4,88.9,No,239,263,Not Placed,
+36,Art,83.4,85.9,No,216,291,Placed,75500.0
+37,Business,79.2,82.3,Yes,289,368,Placed,86000.0
+38,Engineering,61.2,76.7,No,213,206,Not Placed,
+39,Art,64.0,79.9,No,209,231,Not Placed,
+40,Art,68.0,86.2,Yes,376,389,Not Placed,
+41,Engineering,78.5,79.2,No,332,396,Placed,156500.0
+42,Business,83.0,83.4,Yes,249,339,Placed,99500.0
+43,Finance,75.2,85.2,Yes,228,286,Placed,148000.0
+44,Business,68.1,77.8,No,124,146,Not Placed,
+45,Finance,93.6,80.2,No,194,315,Placed,82000.0
+46,Business,75.6,71.0,Yes,157,183,Not Placed,
+47,Business,82.3,87.2,No,402,481,Placed,103500.0
+48,Business,71.4,82.9,No,323,349,Not Placed,
+49,Engineering,71.9,73.5,No,181,225,Placed,205500.0
+50,Art,79.1,74.6,No,157,217,Placed,103500.0
+51,Business,88.7,75.1,Yes,266,353,Placed,340000.0
+52,Engineering,69.4,85.1,No,268,314,Not Placed,
+53,Business,80.3,74.9,Yes,167,247,Placed,103500.0
+54,Finance,83.0,84.6,Yes,342,410,Placed,99500.0
+55,Business,74.1,81.7,Yes,349,395,Placed,103000.0
+56,Engineering,79.4,81.4,No,340,416,Placed,103500.0
+57,Business,88.1,83.8,Yes,227,342,Placed,165000.0
+58,Computer Science,74.6,88.5,Yes,409,446,Placed,124500.0
+59,Computer Science,87.1,84.9,Yes,400,477,Placed,103500.0
+60,Computer Science,79.7,84.3,No,374,444,Placed,82500.0
+61,Computer Science,82.1,78.2,No,255,351,Placed,93000.0
+62,Finance,70.2,80.0,No,146,165,Not Placed,
+63,Business,81.7,74.8,No,248,317,Placed,168000.0
+64,Computer Science,76.1,78.5,No,198,250,Placed,96000.0
+65,Engineering,65.4,71.8,Yes,210,217,Not Placed,
+66,Engineering,70.1,69.9,Yes,107,138,Not Placed,
+67,Business,75.3,82.7,Yes,239,302,Placed,80000.0
+68,Computer Science,68.7,74.0,No,287,311,Not Placed,
+69,Business,75.7,84.0,Yes,340,373,Placed,124500.0
+70,Computer Science,68.7,84.7,No,155,196,Not Placed,
+71,Engineering,70.4,78.2,Yes,263,306,Placed,99000.0
+72,Engineering,68.3,85.0,Yes,265,302,Not Placed,
+73,Business,71.7,80.1,No,249,278,Not Placed,
+74,Computer Science,70.9,85.3,No,377,429,Not Placed,
+75,Engineering,66.3,79.7,No,301,338,Placed,124000.0
+76,Business,65.3,79.6,No,242,261,Not Placed,
+77,Business,75.7,78.9,No,211,256,Not Placed,
+78,Finance,66.0,78.5,No,160,183,Placed,91500.0
+79,Business,78.9,72.0,No,218,274,Placed,144500.0
+80,Business,74.0,74.2,No,133,182,Not Placed,
+81,Business,74.6,71.7,No,122,183,Not Placed,
+82,Engineering,79.3,80.7,No,236,309,Placed,114500.0
+83,Engineering,70.1,84.1,No,143,178,Not Placed,
+84,Business,88.8,87.4,No,354,458,Placed,104500.0
+85,Business,66.0,77.4,Yes,214,234,Placed,124000.0
+86,Art,82.9,84.7,Yes,225,306,Placed,113000.0
+87,Business,100.0,78.8,No,261,400,Placed,78000.0
+88,Business,75.6,92.7,No,277,337,Not Placed,
+89,Finance,67.5,88.8,No,282,325,Placed,109000.0
+90,Computer Science,68.7,86.6,No,322,329,Not Placed,
+91,Business,76.0,77.9,No,326,369,Placed,99500.0
+92,Computer Science,67.7,86.1,No,421,457,Placed,107000.0
+93,Engineering,75.3,89.9,No,368,421,Not Placed,
+94,Engineering,68.1,83.1,No,279,282,Placed,84000.0
+95,Finance,63.3,82.6,No,268,256,Not Placed,
